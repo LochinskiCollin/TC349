@@ -1,3 +1,4 @@
-function() {
-alert("Hello World!");
+function() 
+{
+	alert("I think you are using " + navigator.appName);
 }
