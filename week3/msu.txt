@@ -1,0 +1,13 @@
+Critique of MSU.edu Homepage
+
+I think the MSU Homepage is a simple look at a University’s home webpage. It lays out the basic link to the
+rest of the site and allows new time users to navigate very easily. Though it may look simple I believe
+the code is very precise and in-depth. With the header constant over all pages, it makes sure the user knows
+they are still on the MSU site. The header includes a clickable logo (back to the homepage), a search bar to 
+search the entire site for keywords, a header tab bar to go to different departments of the site, and finally
+a small inline link list that gives the viewer a choice of user type(customizing the page to their needs). 
+The best part of the site lies in the dropdown header tab bar. This gives a nice smooth option for the user
+to pick which internal page they are looking for. After the header is the content and on the homepage it is 
+mostly just news about the University. This content is well organized with clearly defined text boxes. The 
+right sidebar gives a navigation choice to similar pages the viewer is on. All this adds up to a clean, 
+easy to use webpage. 5 Stars.
