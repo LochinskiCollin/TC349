@@ -4,33 +4,33 @@
 <head>
 	<meta http-equiv="content-type" content="text/html" charset="utf-8">
 	<title>Project 1 - My Favorite Books</title>
+    <link rel="stylesheet" href="css/personal.css" type="text/css" media="screen">
 </head>
 
 <body>
-  <!--   Top Navigation    -->
-  <div id="navigation">
-    <ul style="list-style-type:none; ">
-        <li style="display:inline"><a href="../index.html">Home</a></li>
-        <li style="display:inline"><a href="../aboutMe.html">About Me</a></li>
-        <li style="display:inline; font-weight:bold"><a href="../favBooks.html">My Favorite Books</a>      </li><li style="display:inline"><a href="../gallery.html">Gallery</a></li>
-    </ul>
-  </div>    
-      
-  <!--   Main Content    -->
-  <div id="content">
-    <h1>My Favorite Book List!</h1>     
-    <ul>
-      <li>The Jester by James Patterson</li>
-      <li>The Blue Nowhere by Jeffery Deaver</li>
-      <li>Angel &amp; Demons by Dan Brown</li>
-      <li>Timeline by Michael Crichton</li>
-    </ul>
-  </div>         
-
-  <!--   Footer   -->
-  <div id="footer">
-    <p>&copy; 2013 Collin Lochinski. All rights reserved</p> 
-  </div> 
+  <div id="container">
   
+    <!--   Top Navigation    -->
+    <div id="navigation">
+      <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="aboutMe.html">About Me</a></li>
+          <li id="selected"><a href="favBooks.html">My Favorite Books</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
+      </ul>
+    </div>    
+        
+    <!--   Main Content    -->
+    <div id="mainContent">
+      <h1>My Favorite Book List!</h1>     
+      <ol id="bookList">
+        <li>The Jester by James Patterson</li>
+        <li>The Blue Nowhere by Jeffery Deaver</li>
+        <li>Angel &amp; Demons by Dan Brown</li>
+        <li>Timeline by Michael Crichton</li>
+      </ol>
+    </div>
+             
+  </div>
 </body>
 </html>
