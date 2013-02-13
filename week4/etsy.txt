@@ -1,0 +1,12 @@
+Etsy is a simplistic view on a craft e-commerce site. With its off white background 
+and grey padding boxes, Esty provides a clean and crisp look while the user shops. 
+An easy header bar gives the user a search box for products and an easy sign-in or 
+sign-up choice. Their use of a vertical navigation is slightly old style but works 
+for the caterogory choices. There is no side bar on the right, which is very 
+surprising not to see advertisments lining my page. 
+
+The CSS for the page must be very simple for the header and navagation, where the main 
+content on the homepage is randomized every visit. This is a difficult thing to pull off
+without the proper math to make sure products aren't duplicated or along the same lines. 
+The structure of this page is very well thought out and offers a pleasent view into the 
+online shopping world.
