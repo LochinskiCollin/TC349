@@ -1,0 +1,24 @@
+Vimeo.com is a online video streaming site that allows its 
+users to view the entire library of videos. Their homepage is 
+tailored to a new user. A large form box fills across the width
+of the page, with the inputs of name, email, and password. 
+Preexisting users have to click on login. If a non-member wants 
+to browse the videos without signing up they can search in the
+upper right of the menu bar.
+
+This site uses a single column approach on the homepage with a
+two column page on the search pages.Then goes back to a single 
+column for the video streaming. The video appears at the top of 
+the page, with the title and details underneath. This format is 
+simple a sleek and lets the user view the actual content. 
+
+The homepage also has an inviting background image to catch the 
+user attention. With a solid color separating the important 
+sections. I do believe they have too much on their homepage and it
+requires the user to scroll a far ways down to hit the footer.
+
+Overall I enjoyed this site and am an active member. They are a 
+strong competitor to YouTube, and give a little more quality 
+over quantity.
+
+Rating: 4 stars
