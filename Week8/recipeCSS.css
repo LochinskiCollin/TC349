@@ -5,7 +5,7 @@ body
 {
 	background:url(imgs/bg.png);
 	margin:0;
-	font-family: "Helvetica", sans-serif;
+	font-family: "news-gothic-std-1","news-gothic-std-2";
 	line-height: 1.4em;
 }
 
@@ -38,6 +38,7 @@ hgroup
 {
 	margin-bottom: 40px;
 	color:#FFF;
+	font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2";
 }
 
 article
