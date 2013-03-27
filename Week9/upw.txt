@@ -1,1 +1,14 @@
-upw.txt
+
+United Pixel Workers have a great interactive website that shows the power of new scripting. I would believe
+they are using javascript or a form like jquery to get the instant affects you can see all over their site.
+Even before I moved my mouse after the page loaded, the webpage was already raising the unit the mouse was
+hovering on. This was impressive at first and mind-blowing when I scrolled over the home icon and shopping
+cart icon. The transition was seamless and hovering on links was like never before. The smooth change of 
+status was not a jump but a gradual transformation that flowed with the mouse on the page. 
+
+The color scheme was very pleasing and the use of blocks to divide the page was very good and not over 
+whelming. When looking at the footer I noticed a change in flow of the links. And the newsletter has already 
+been plugged in the middle of the page. I did not see a reason to reiterate it again. The size of margins was 
+also a concern for me, that they were too small. Until I resized my window to test what would be cut off and 
+got my mind blown again. The whole page was dynamic with each block section reforming to the size. Also, 
+the blocks would move to their position instead of popping there. 
