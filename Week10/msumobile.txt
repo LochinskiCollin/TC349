@@ -1,1 +1,15 @@
 msu moblie site
+
+The MSU mobile site looks like it has been thought over for a long time. It has
+a nice flow to it with great navigation. The icons used are clear meaning and 
+easy to see. The search bar does take up a lot of my screen but for typing, it 
+is a necessary evil. The icon links lead you to the separate pages that allow
+you to surf the site as much as the desktop version. With the only downfall that 
+I can see is the lack of a full color scheme. Yes we bleed green and white but 
+we don't have to stare at it all day. 
+
+The next level down of pages all seem to use the same navigation list to continue
+you on to the next level of categories. This shows uniformity and structure. When
+people venture off the mobile site it is a clear distinction of the action. The MSU
+ mobile site is great the way it is but could use a couple of tweaks to make it 
+even better.
