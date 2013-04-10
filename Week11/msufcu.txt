@@ -1,2 +1,18 @@
 msufcu.org
 
+The MSUFCU has done a very good job at creating a deicated mobile site for smaller devices. 
+As of today there are three different versions of teh mobile site impletemented. At the 
+bottom of the "new" mobile site there is the options of "classic mobile" and "full" site. 
+
+Obviously the "full" site leads to teh desktop verison of the hompage in a condense noncomprehesive 
+view. This is a bad way to view on a small handheld but would not be so bad on a larger tablet. 
+Next I looked at the "classic" mobile site. This is a very basic static mobile site. Though it is 
+the native scrren size with ledgable text, it just does not scream professional. With hyperlinks 
+and just static text to fill teh page, this does not offer much. Luckly they recently published
+their "new" moblie site. THis new view is interactive with form inputs for login, clearly defined 
+buttons, and I would say the best thing that has no actual function, when you click a button to go 
+to another page, the screen wipes off to the left as the new page comes in from the right. This 
+subtle movement makes the experience more enjoable and smoother. It even has great logo images to 
+clearly identify what company page you are on.Overall I think they learned through each step how 
+to make a better experince for the users. And came out with something that people would be happy 
+to use instead of their mobile app.
