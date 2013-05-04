@@ -136,7 +136,7 @@ a:hover{color:#C00;}
 }
 
 @media (max-widt: 320px) {
-	#warp{
+	#wrap{
 		width: 100%;
 	}
 }
