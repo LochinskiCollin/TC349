@@ -134,3 +134,9 @@ a:hover{color:#C00;}
 	float:right;
 	padding-left:15px;
 }
+
+@media (max-widt: 320px) {
+	#warp{
+		width: 100%;
+	}
+}
