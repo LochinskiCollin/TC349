@@ -1,0 +1,48 @@
+Framework of each page order 
+
+{
+Header 
+-Logo 
+-Background Border (Color= Blue)
+
+Navigation Bar (float= left)
+-Home 
+-Calendar
+-History
+-Family Tree
+
+Social Links  (float= right)
+-Facebook (/lochinskiFamily)
+-Twitter (@lochinski)
+
+Main Content
+*-Title
+*-Content
+-Previous and Next buttons
+
+Footer 
+-Copyright
+-Terms & Conditions
+-Privacy Policy
+-About Us
+}
+
+
+Each Page's Main Content
+
+{
+Homepage Content
+-Title = Most Recent Pictures
+- Content= Pictures (Java script hovering opacity)
+
+Calendar Page Content
+-Title= Lochinski Family Calendar
+
+History Page
+-Title= Dates (Year only)
+-Content= Description of life events
+
+Family Tree
+-Title= Lochinski Family Tree
+-Content= Image of Family Tree (Three Generations)
+}

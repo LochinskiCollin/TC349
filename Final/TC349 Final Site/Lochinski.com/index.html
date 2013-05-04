@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, inital-scale=1.0" />
+	<title>Lochinski</title>
+    <link rel="stylesheet" type="text/css" href="css/lochinskiCSS.css" /> 
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript">
+	$(function(){		
+		$('.hover_images img').css('opacity', 0.8).hover(function(){
+			$(this).stop().animate({opacity: 1}, 100);
+				}, function(){
+			$(this).stop().animate({opacity: 0.6}, 100);	
+		});
+	});
+	</script>
+</head>
+
+<body>
+  <div id="wrap">   <!--   Wrap Start   -->   
+    
+    <div id="logoBar">  <!--  logo start  -->  
+        <img src="imgs/lochinskiLogo.png" alt="Lochinski Hompage" />
+    </div><!--  logo End  --> 
+      
+      <div id="navBar">    	<!--   Navigation Start -->
+      	<div>
+        <ul id=tabs>
+          <li id="selected"><a href="#" title="Home">Home</a></li>
+          <li><a href="lochinskiCalendar.html" title="Calendar">Calendar</a></li>          
+          <li><a href="lochinskiHistory.html" title="History">History</a></li>
+          <li><a href="lochinskiFamilyTree.html" title="Family Tree">Family Tree</a></li>
+        </ul>
+        </div>
+        <div>
+        <ul id="socialLinks">
+       		<li><a href="http://www.twitter.com/Clochinski1088" title="Collin's Twitter" target="_blank"><img src="imgs/twitterIcon.png" /></a></li>
+        	<li><a href="http://www.facebook.com/Clochinski1088" title="Collin's Facebook" target="_blank"><img src="imgs/facebookIcon.png" /></a></li>
+        	<li>Follow Us</li>
+      	</ul>
+        </div>
+      </div><!--  Navigation End  --> 
+
+    <div id="mainContent">		<!--   main Content    -->
+      <h2>Most Recent Pictures</h2>
+      <hr />
+	  <div class='hover_images' style="padding:15px;">
+        <img src="imgs/collin.png" alt="facebook"/>
+        <img src="imgs/brayden.png" alt="facebook"/>
+        <p>Hover over each image.</p>
+      </div>
+      <br />
+      <hr />
+      <div class="picInfo">  <!-- box 2 -->
+        <div class="boxHeader">
+          December 20th, 2012
+        </div>
+        <div class="boxContent">
+          <p>Another Lochinski Family get together. When a family of 60 members gets together there is not just a pizza party, we have to rent out a sportsplex.</p>
+        </div> 
+      </div>  <!-- end of box 2 --> 
+      <br />
+      <hr />  <!--
+      <div id="leftArrow">
+      	<p><-This Way</p>
+      </div> -->
+      <div id="rightArrow">
+        <a href="lochinskiCalendar.html" ><img src="imgs/rightArrow.png" /></a>
+      </div>
+      <div style="clear:both">
+      </div>
+    </div><!--   End of main content    -->
+    
+  </div> <!--Wrap End-->     
+        
+    <div id="footerInside">  <!--   Footer  Start -->
+      <div id="footerDetails">
+        <p>&copy; 2013 Collin Lochinski. All rights reserved</p>
+      </div>
+      <div id="siteMap">
+      	<ul>
+        	<li>About Us</li>
+            <li>Privacy Policy</li>
+            <li>Terms &amp Conditions</li>
+      	</ul>        
+  	</div>  <!-- Footer End  -->
+  
+</body>
+</html>
